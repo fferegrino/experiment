@@ -1,8 +1,7 @@
 {
-    "full_name": "Mario Krapp",
-    "email": "mariokrapp@gmail.com",
-    "github_username": "mkrapp",
-    "project_name": "Name of your science project",
+    "full_name": "Antonio Feregrino",
+    "email": "antonio.feregrino@gmail.com",
+    "project_name": "Name of your experiment",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "A short description of your project",
     "release_date": "{% now 'local' %}",
