@@ -1,7 +1,8 @@
 {
-    "full_name": "Antonio Feregrino",
-    "email": "antonio.feregrino@gmail.com",
-    "project_name": "Name of your experiment",
+    "full_name": "Cosme Fulanito",
+    "email": "cosme@fulanito.com",
+    "github_username": "cosme-fulanito",
+    "project_name": "Name of your science project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "A short description of your project",
     "release_date": "{% now 'local' %}",
