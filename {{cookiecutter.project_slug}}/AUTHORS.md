@@ -1,7 +1,7 @@
 Credits
 =======
 
-Project Lead
+Author
 ----------------
 
 * {{ cookiecutter.full_name }} <{{ cookiecutter.email }}>
