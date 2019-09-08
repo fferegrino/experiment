@@ -3,6 +3,8 @@
 
 {{cookiecutter.project_short_description}}
 
+Version: 0.0.0
+
 Project Organization
 --------------------
 

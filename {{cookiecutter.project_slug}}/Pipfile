@@ -6,4 +6,5 @@ name = "pypi"
 [packages]
 
 [dev-packages]
+advbumpversion = "*"
 jupyterlab = "*"
